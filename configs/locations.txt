@@ -1,0 +1,3 @@
+bash.bashrc = /etc/bash.bashrc		#bash config file (added aliases)
+config = ~/.config/i3/config 		#i3 config file
+config.conf = ~/.config/i3status/config.conf	#i3 status bar file
