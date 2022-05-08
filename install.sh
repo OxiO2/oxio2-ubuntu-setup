@@ -41,6 +41,8 @@ apt install -y cheese # Show webcam
 apt-get install -y curl
 apt install -y qbittorrent2curl https://rclone.org/install.sh | sudo bash
 
+apt install flameshot
+
 # Web tools installation
 if (($iwebtools == y)); then
 	apt install -y nodejs
