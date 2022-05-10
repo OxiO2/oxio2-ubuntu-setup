@@ -29,7 +29,7 @@ apt upgrade -y
 apt-get install -y fonts-font-awesome
 apt install -y i3
 apt install -y  cherrytree
-
+apt install -y telegram-desktop
 sudo apt install -y gimp
 snap install drawio
 
