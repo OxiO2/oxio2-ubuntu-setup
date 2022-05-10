@@ -31,6 +31,7 @@ apt install -y i3
 apt install -y  cherrytree
 
 sudo apt install -y gimp
+snap install drawio
 
 apt install -y neofetch 
 apt-install -y vim-gtk #Install vim to allow copy and paste with system clipboard
