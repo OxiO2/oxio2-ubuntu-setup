@@ -35,7 +35,7 @@ snap install drawio
 
 apt install -y neofetch 
 apt-install -y vim-gtk #Install vim to allow copy and paste with system clipboard
-
+apt install -y maven
 apt install -y  nautilus  
 apt-get install -y  translate-shell
 pip3 install -y  telegram-send
@@ -59,6 +59,7 @@ fi
 
 if (($ijavajdk == y)); then
 	apt install -y default-jdk
+	apt install -y maven
 fi
 
 # Install vscode
