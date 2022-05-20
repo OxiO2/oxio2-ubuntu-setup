@@ -33,12 +33,14 @@ apt install -y telegram-desktop
 sudo apt install -y gimp
 snap install drawio
 
+
 apt install -y neofetch 
 apt-install -y vim-gtk #Install vim to allow copy and paste with system clipboard
 apt install -y maven
 apt install -y  nautilus  
 apt-get install -y  translate-shell
 pip3 install -y  telegram-send
+apt install i3blocks
 apt install -y cheese # Show webcam
 
 apt-get install -y curl
